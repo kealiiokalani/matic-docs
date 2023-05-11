@@ -105,23 +105,11 @@ The following key performance metrics were considered during the tests:
 
 ### Summary of test results
 
-- **EOA to EOA transactions:**
-  - The highest TPS Sent: 2,600 using x2iezn.2xlarge
-  - The highest TPS Mined: 2,525 using x2iezn.2xlarge
-  - The highest Gas per Second: 53,025,000 using x2iezn.2xlarge
-  - The highest Gas per Transaction: 21,000 using x2iezn.2xlarge
-
-- **ERC20 transactions:**
-  - The highest TPS Sent: 1,300 using x2iezn.2xlarge
-  - The highest TPS Mined: 724 using x2iezn.2xlarge
-  - The highest Gas per Second: 32,385,650 using c6a.48xlarge
-  - The highest Gas per Transaction: 29,150 using x2iezn.2xlarge and c6a.48xlarge
-
-- **ERC721 transactions:**
-  - The highest TPS Sent: 800 using x2iezn.2xlarge
-  - The highest TPS Mined: 574 using x2iezn.2xlarge
-  - The highest Gas per Second: 82,222,812 using c5.2xlarge
-  - The highest Gas per Transaction: 115,158 in multiple tests using x2iezn.2xlarge and c5.2xlarge
+| Transaction Type | TPS Sent | TPS Mined | Gas per Second | Gas per Transaction | Instance Type(s) |
+|------------------|----------|-----------|----------------|---------------------|------------------|
+| EOA to EOA        | 2,600    | 2,525     | 53,025,000     | 21,000              | x2iezn.2xlarge    |
+| ERC20            | 1,300    | 724       | 32,385,650     | 29,150              | x2iezn.2xlarge, c6a.48xlarge |
+| ERC721            | 800      | 574       | 82,222,812     | 115,158             | x2iezn.2xlarge, c5.2xlarge |
 
 <details>
 <summary>EOA to EOA transaction tests</summary>

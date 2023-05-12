@@ -126,7 +126,7 @@ The following key performance metrics were considered during the tests:
 | v0.7.3-beta1    | 4         | polybft  | x2iezn.2xlarge | 2         | 200,000,000    | polycli | 476,000     | 2,200    | 2,078    | 21,000     | 43,638,000    |
 | v0.7.3-beta1    | 4         | polybft  | c6a.xlarge     | 2         | 200,000,000    | polycli | 476,000     | 2,200    | 756      | 21,000     | 15,876,000    |
 | v0.7.3-beta1    | 4         | polybft  | c6a.xlarge     | 5         | 50,000,000     | polycli | 100,000     | 475      | 400      | 21,000     | 8,400,000     |
-| v0.7.3-beta1    | 4         | polybft  | c6a.xlarge     | 5         | 200,000,000     | polycli | 100,000     | 2,600      | 2,525      | 21,000     | 53,025,000     |
+| v0.7.3-beta1    | 4         | polybft  | x2iezn.2xlarge  | 5         | 200,000,000     | polycli | 500,000     | 2,600      | 2,525      | 21,000     | 53,025,000     |
 
 </details>
 

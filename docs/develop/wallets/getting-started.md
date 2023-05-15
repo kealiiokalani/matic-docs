@@ -87,6 +87,7 @@ The following wallets are solutions that Polygon Technology has partnered with:
 | [Coinbase](https://www.coinbase.com/wallet) 	| hybrid 	| EOA 	| no 	| interface 	| yes 	| yes 	| yes 	| mobile, browser, api/sdk 	|
 | [CypherD](https://cypherd.io/) 	| non-custodial 	| EOA 	| no 	| yes 	| yes 	| yes 	|  yes	| mobile 	|
 | [D'Cent](https://dcentwallet.com/) 	| hybrid 	| EOA 	| no 	| interface 	| yes 	| yes 	| no 	| mobile 	|
+| [Enkrypt](https://www.enkrypt.com/?mtm_campaign=Polygon%20wallet%20page) 	| non-custodial 	| EOA 	| no 	| yes 	| yes 	| yes 	| yes 	| browser 	|
 | [Exodus](https://www.exodus.com/) 	| non-custodial 	| EOA 	| no 	| yes 	| no 	|  no	| yes 	| mobile, desktop 	|
 | [Gnosis Safe](https://gnosis-safe.io/) 	| non-custodial 	| smart contract 	| yes 	| interface 	| no 	| no 	| no 	| mobile, browser, desktop, api/sdk 	|
 | [Guarda](https://guarda.com/) 	| non-custodial 	| EOA 	| no 	| no 	| no 	| yes 	| yes 	| mobile, browser, desktop 	|
@@ -97,7 +98,7 @@ The following wallets are solutions that Polygon Technology has partnered with:
 | [MathWallet](https://mathwallet.org/en-us/) 	| custodial 	| EOA 	| no 	| no 	| no 	| yes 	| yes 	| mobile, browser, api/sdk 	|
 | [MetaMask](https://metamask.io/)* 	| non-custodial 	| EOA 	| no 	| interface 	| yes 	| no 	| no 	| mobile, browser, api/sdk 	|
 | [Multis](https://multis.co/)* 	| non-custodial 	| EOA 	| no 	| no 	| no 	|  	|  yes	| mobile, desktop 	|
-| [MyEtherWallet](https://www.myetherwallet.com/)* 	| non-custodial 	| EOA 	| no 	| interface 	| no 	|  	| yes | mobile 	|
+| [MyEtherWallet](https://www.myetherwallet.com/)* 	| non-custodial 	| EOA 	| no 	| yes 	| yes 	| yes 	| yes | mobile 	|
 | [Omni](https://omni.app/) 	| non-custodial 	| EOA 	| no 	| interface 	| no 	| yes|  	| mobile, api/sdk 	|
 | [Opera Crypto Browser](https://www.opera.com/crypto/next)* 	| non-custodial 	| EOA 	| no 	| support 	| yes 	|  	|  	| mobile, browser 	|
 | [Pillar](https://www.pillar.fi/) 	| non-custodial 	| EOA 	| no 	| interface 	| no 	|  	| yes | mobile 	|
